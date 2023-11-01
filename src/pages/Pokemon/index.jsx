@@ -1,10 +1,10 @@
-import React, { useState } from "react"
+import React from "react"
 
 import { Link, useLocation } from "react-router-dom"
 import { AppBar, Box, Card, CardMedia,Toolbar, Typography } from "@mui/material"
 
 
-export const Pokemon = ({url}) => {
+export const Pokemon = () => {
   const {state} = useLocation()
   console.log(state)
 

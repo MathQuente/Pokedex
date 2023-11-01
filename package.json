@@ -1,5 +1,6 @@
 {
   "name": "new-project",
+  "homepage": "http://mathquente.github.io/Pokedex/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
